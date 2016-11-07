@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="overview diagram" version="4">
+  <OBJECT>
+    <ID name="overview diagram" mc="Standard.ClassDiagram" uid="612d0332-578f-46a4-b864-26d1e301689d"/>
+    <PID name="dronecommander" mc="Standard.Package" uid="308f6398-379f-4466-b07f-e3198eae7d5e"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">70</ATT>
+      <ATT name="UiData"><![CDATA[eJztU9tO4zAQ/RXL73Wvmy1SKIIGVYhAq3ZB4glN62nX4NiV7V7y9+s06S4tahQkBC/7ZHs858ztTHixTSRZo7FCq3PaZA1KLnrhcPqCM0cE9yZKXLrEc6rNgiWaoxSacQELAwlDLpw2zDpw4pWhxASVs/l7tncaJJPdO8rflCTwos3z36AN2gtHRi/RuJQoSHwsCaleuQgc+L9HkCssklArKWm9F9b3gHfQiUsl0oMSWmUl2Mzfspk2yHJshfz6YGfAke+DXW/dGOcVo9x7igJJcOui6Y3PcXfNLhznsJLuqMh6Xk5Z4QYlOOQ+j6Oe3WUmss4sPnMJ1haTIEGzxRvtdqv242d3XusE0KlNu0Gn1gp4E9uNZtA94+Xd9mzuVumNimGK8ijwxBmhFrSnfSvXAjek6EZY33mVFqMl3qi+TpbaCufHcIK6AlX/t5DcYMYQC5u1sDhOImKhXm1196tFZGDj04khRXMovXbp9uz3hed4y2TG4BfmgPBr9uVjqG8Rm+AnVBANWHz5dD1+vrrs3w7Gw4f76HOEUWHt3o7qn2jeSKDzXwJfKYFfw9Fnz/7k1x8HxIK3]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[overview diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

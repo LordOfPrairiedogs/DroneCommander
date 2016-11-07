@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DroneCommander" version="4">
+  <OBJECT>
+    <ID name="DroneCommander" mc="Standard.Project" uid="3d8c456d-09bd-4317-bb54-814a91cdf5a8"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[DroneCommander]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="DroneCommander" mc="Standard.DiagramSet" uid="ce0f6566-8d53-4173-835c-a4ca530f0cc9"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="dronecommander" mc="Standard.Package" uid="308f6398-379f-4466-b07f-e3198eae7d5e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
