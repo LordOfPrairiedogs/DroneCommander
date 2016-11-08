@@ -19,10 +19,10 @@
         <COMPID name="ArDrone2" mc="Standard.Class" uid="54de40a1-46cf-4a6f-927f-4dbb9e23fec4"/>
         <COMPID name="Drone" mc="Standard.Class" uid="545dd131-4f5b-4b25-b1cf-63f87542843a"/>
         <COMPID name="FlowController" mc="Standard.Class" uid="8683d71e-f8bd-45f9-81f6-6f7a43513e3a"/>
-        <COMPID name="FlowQueue" mc="Standard.Class" uid="f802ebae-d913-40a3-839c-3ccad19df13f"/>
         <COMPID name="MasterFlowQueue" mc="Standard.Class" uid="b17cabcb-08a9-4749-a0ed-525c62cbb8ff"/>
         <COMPID name="ControlInterpreter" mc="Standard.Class" uid="dee24c3b-5f68-4e46-9568-7cb4178c09d3"/>
         <COMPID name="APControlFile" mc="Standard.Class" uid="67c3a859-b35d-47ef-97bb-4e54cce7d0d3"/>
+        <COMPID name="FLOW_QUEUE" mc="Standard.DataType" uid="45ad5ef2-ad7f-4685-93ea-351d5e80aa7b"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="612d0332-578f-46a4-b864-26d1e301689d"/>
