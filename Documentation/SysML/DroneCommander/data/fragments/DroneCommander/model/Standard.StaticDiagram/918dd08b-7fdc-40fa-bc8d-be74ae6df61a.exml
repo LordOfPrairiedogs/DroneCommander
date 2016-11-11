@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="System Behavior - DroneCommander" version="4">
+  <OBJECT>
+    <ID name="System Behavior - DroneCommander" mc="Standard.StaticDiagram" uid="918dd08b-7fdc-40fa-bc8d-be74ae6df61a"/>
+    <PID name="dronecommander" mc="Standard.Package" uid="308f6398-379f-4466-b07f-e3198eae7d5e"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">732</ATT>
+      <ATT name="UiData"><![CDATA[eJztnV1T4zgWhv9KitqL3ao1bX3a3vTMFA0ZNjU0MAnds7s3lGzLdGby0ZuY6WF+/doBspCmwVGkI8XoYmrATRTFfiWd9+jRydsf/piMO7/L+WI0m363h/bDvc4P3789S3+VWdkZ5dWlvU5581l+tzebX+1PZrkcj2b7+UhczcVkX+ajcjbfX5SiHP22L8dyIqfl4vb37P6PjifD5e9Ht7/vdSbi19n8cvWm4d73b8/ns89yXt50pmJSvddY3MyuyyNRiurfPorxtbzrxPR6PN578/3bN/cv+Oqlw/JmLPcefQT83EdY1H+/2M9mc7l/+9oG/TsUi0zkMr9/s94f5UAWDd/ltGri7pUd+Ud5lParPi5/rH9Y3CwmL3zEg3fDi8HB4cXlUf/geHDw/vJjv/fL8aB/tHaz3s1mYymme53f64vf7ZXza7nW8pvb2/Tcu83lWJQyrz7fWvPv60v3bVePeJqLeb7/6Fl3EhTneRinQVTkWUDDQgRpFudBKiMqJM8LjsTzH3YsFuVP09mX6YlI5XitC8NyPppe7X0/vFmUctJ5Jz+J30ezeSfoHM1nU3k4m0yqbsn52zfLVz37Mat71Z9Wr/g8W4zK6sF/460aNHX4aTTO57Ju4WS0KB9pkSgMp2ws/vyzGkaH1b1YbDV8BlU3xPSqVt7dc2OYdGnYxSTuxuHGI4saH1n1sLodw8/27fDkYDi87J+e9gaXw3+e/TK86A16Zxf/Pu8N125Bb3o9+Uej7v4kb/4y/DT7MizlXM7qV7+vXrK6cxe9f130D89Om3Rs0Dsf9IaX78+Oelt1ZyA/z+WiEoWoFfqoO9WU8OHw4sOgd9SkQ2fnLt6mg4sLF7vVP636c3pw4mLf7HZJ2/KxnNo6JIlCzsIiYHGMAhqTJBBRnAQZxUmE42piKHINq4WrawPbdm04n48mYn5zunxyWpeJsKu8RvCma0TV1B83Wy8U1Ev0OYm+F6NprY8tpRopSLVudfFZZPKTrB7cvBLt6f2Vfy6vwDuDGFab3GvzOW3eqqBBg4tqobocZV81tG54CjFerDuep5r6Td58mc1zDa2VIvvtcrFcQzc3Y091bfzEg9i8KZEuyrnISoVPuNLog2GTqC1Ui8WoGC0H/uHql4FcjP4U6Vgez2fXn+FnABT6KcChKWDLZQmpZKtEWb15el3Kq1qClToP7i/Y0mTjhJUeTaL1oM6L8lHDj/WgItE3d/97flpFKsmhusFlNuBevWf3F2ypt3FSyKsXJOKX5adZblq6Kt51NK0CpWkVc1QBTFZeV4o4nvTvrg3vr20l4Lq1q9pY3D3RAG0uZ2D/6uX8vJzvBbJtpKDiYBsJ1ta0C+xlUTsiWY3KND3FqriuRor9TzVULezKAjuvlgjW2MRaq0CzepsJG6uYttF0KufLnMJS0dUv2++OaogWsLduTol6qYwtQwWsYsu+oU9LwQEG9mR4fbveyxIyVMBqbuxJxcqFpfAA2Hd5yboUHnz9T2vvM1p8rH4bZUJhc6T5u3y9r75/p60XQgfSYBcFK1nQibiSq53U5e5QPVzrq/Vu6rC+eqsPvQBA3OWsS0i3ciEbj2RgZ+oJgGcH8rD6pOPxqGwymtuw0dq0b4o7rZuaHcW9U2MAKIrDLg6r/zDqxvHGg5s0dvEeAXULAa1hy+PB2Yfzj/1h/93Jeq82hwycZjjdBF49WQpEluI044hHRbVex2FAU5EEKSmKoMgKTDHGnHEdi/bBdTn7PBrPSneQCKKSXYOkShXXHeBEGzGcaNthgWpCSolKms1BppQA59qI4cTFDivTA6XabM5aU5qBUqJ49MFFopQAJy79+DcWOqkk6EzSpOtZRryeZmygTuBkHDG8677D6tweK334XFXySiutPpSp7S10CsyFkHXzoU2hq1vawZIUaSpJEIY0DWhUiCChCQoyjvOskBGNwxfy6o1UWoxnX36+ltdNQnGNc2gboie3ssRUxbTXDTpFglNoj+7XGqsQOFUDZaAhcPTCRsJTSob29F7JhvlvauzAgq3JFvqcveFtdiCJ7g7URY2dWLADeFFoLKQdgjUxp1pDv6namQbz6Dfe3LcyaN/qYwST1DfTeCrBUkjAgP0X83uklmIDpvGIgi3gmwF7LK9WR+KB18B6MyW7uXusN4Pe/PSD2HPeLmbwmYpbN8l547BLaNhFYahSxJE1Nuse83YL83YTfHaUEvc8NhCPzWguaShQQHlWLa6CF0GC62U2T9NEYlLIbD1dp7SuzpfHqLA7TBHb+vyPWRxbcX3gwMkvZgza2HV9aqKxuUr6y0EamwPnwLhhQ7K7wvQwtjYvstaUZhibK35HiYswNgdOKvrhbyhu4ioJNOcq+3Lg9Bg3vOe9u3KEqunLVfJAdYNOkZwc+osSvG6/Fd5DgJzcWKlJ24cLIuhy/17I32Q0tHCckRqm4S7HGQEb1qgdEevusBqRMUreDrcRAVuslgjWwJRqDeOMNNabtB4heIvmiJx1UJyRGjTvEsUZAXuvyDBXvLuCNB0YaIThbUGcMbC/8mJ1Ixh4DQxnrGQ1LTGcmHXjsMuQCsQZQ58b8Jv532jSM5w2Gc5YcSPUJMNZl+pVZHTixkbdM5ye4Xy5V57h3LhvLWM4WZ4jUi2rBUsDmmIWpKhaYDkp4ohRHFMiNCyry0XVHRAhVixV6DjAGQOnvWLjaa+dFKcmejNWSXs5SG/GwLmv2Hg6YSdV6dFNbRZkramG6OZzXubhcFE8XOAiuZkAZxL90DcRLSUqOTPnsM0EOCGWGN/i3kktQjGbiUrep27QKWYzAeYyvGjtAZuJsWqGtnGMBNiXehWbpDUTYzUMbU2ywAY1aUeUujtQRmIMhbcDaKAQ2Fe1RLG6J1RrrCYKNRY2tB0doNA7MxfUrAPVRKHGIoaWwgEUApuuegB4QYJHBSjUSLzbYjVRCOytvFhdiAVeA6qJQiWjaYnVJLhmNQlTYTVRCL1F6jfun2rPk5o2SU0Ubl1WTfOYpvFdvU2KurGCsUGNbbqHNT2s+XKvPKy5cd9aBWvGPCZ5hGRQxGkeUFYkQYwKHvAiEpQwRKSWZfXH8ezL4WxaVsvmuFFGAIhDQEgl6wWJbaquE8AJsHph8kI1T3AipJINcxDhRAg6JfbV9zt6hXqa0yWas2khToQUzxq4yHMiBJ1t9POA4ZBKJcfmHNuJEHACrR4IXpcOYJ4IqSSN6had4jwRBiY6vIBdQD4RNlb50DrVgcFNrVc0BP6JsLHah9YmX2h3i9sR1e4Q64GNwfWWuA8M7cRaollj06s9GBRrrI9oP2zwTs4tXWvBQrHGsoi2ogQCbdGw4ZJqu65M0zED0QjZW+NDCbQN86p1KU54FaAoUXKkO1jUExHwfVhPCnhk1F1klGxdyE03MkrDbo2NYloN8K+OSjQZ4Y19vWdG3WJGazrzeHD24fxjf9h/d7Leq81JBKehz7NzEx/WTe7WA65AgGuKokykWRqEsUgCGtEkEKHMA4ZZxnGWpnFRaIgG3ot6ratjgp+v5bVDlbYQUUnlARKu6ssadFqPGE7r7bxUdTGuRCW15yLjSqHze8RwpmTnJeohV23Gaq0p3ZArVTyZ4STkSqFTpn4iMBxWUZUEoUnKdT3NidfznE1kCp0LpIYJgJ2X6fbQ66Pnq5LbWon2oV6tb+pTaFiFGitwsLqpnZAJxAsugyxOwoCmGQ6SELGApSnNQ4p4Ql4Y1Y3kWtiZT9sQUjmWrKYq5r5u0RSqrmUVgjb2fhVyglynxmpqapX0V+fHGkiaQScCvKSB0HVm7LiFLa/KoL0qMwwEAGl1hzA0Zuy8hSUkjUEb15Zo1tz8ao9dZxprcNoPHMBtrg8cAOB1pvF8hbU4AdqmMb//ajls0Hjkwhq9zqGtmJetU6HCq8DXuZIrtYWvoxpf50QJX+fgO6t+OHt+3eEtAa7i7U3y66xm18Owi2Kk8g3kiDf29h5fdwtfdxO9dpR+90Q4EBGeS4lpRtKAFTwOqKQ8SFj1U5SlFEVxFia5jk32u7NhywxpNZ5Kp2r08a0PORkue6y6VkCny7jhr71og1h1YeFcJWnmIhbOoTNn3LBnaYNKPRmuzbKsNaWbDOeKX+riJBkeQacj/VxgPryKVNJv7pVAjqBza5HhXfU2aBOsDHKkkkiqW3SrDHIEjYZ4EbsClEbGKnRaP/4QQRtdr2o4pjRSo0McZkojaMcbtSPK3SE4JDJG71sCRWJoZ9YSzRqdYu1hpbHG0p3Ww4fYOzv3tK2FLI3V0H6nyNIY2rLFhqHnNqjTdPwQa8T2rcGlMbQt88p1LWZ4FXxprORQbfGlSTeh3ViNL43B92o9UeARU7cR01hxA9YYYlp59S6hYRdhNWwoaWz1PWLqEdOXe+UR04371irElEcZETFLgpSwPKCRLIIkStNqtWU0y2SUh1rW2IPzu1X2x9HYpdp4iWLpRjC6VHWZgM6aJYazZjuuU11gaaKSM3MRLE2gE2eJ4fTDjgvUM6XaPMpaU7qZ0kTxQISTTGkCnYX004DZeEol2+YeTppAp9ISwxvqOy5LMJI0UckX1S06RZLiEBoI8fq1D5Hi0FiBR9sUCA7B/awXNAA/ikNj5R2tTb3AxhZ/9YVUu6nU3eE/cGgM1rfDguAQ2IW1RbOmZldr6CgONVZ7tB80eBfnlKx1UKM41FjZ0VaMgIDtWT0SvDDtBQxII5BvCxjFCNiCedG6FCS8BlYUIyU3aosVZXUtUoZUWFGMwLdfPR/gMVFXMVGMVBx9Xo3S+kXVaK8H7EX1o+YhnuCwS8IuoriLws0pIIwa+3rTsOjRwcVBTcu5xxuueuYmcrjqnpu9ur9pw4/93i9bs7b3+bDFx5H88qhbR/2D48HB+4a9cg21XXXMISj54c06Hpx9OP/YH/bfnaz3a3Pe5dFQ365lbTHC/fzcoUzkTBY4EHlUBJTHLEiIFAFhqLoeh0JEqYYw4ceTs18uf/7Q+9Bzh83ASCW398QiZ5h4VV7sgLN99erq5WocecVIJeHnIPKKMXTWDxlLoLRCoNqR14ZYaTO/1aCx1wG8Yqx4RsNF4BVj6CyqnwSMBlVYJWVoEnjV8LXmGEMzLNgYD9AKkW6Pvz56uirJrpVkH6rV+g4/hgZXsLGSB6ub2glJKhgiSRAKlgY0LEiQZlEcSMwlz7AskkjH12r9t/4yrdvew86nPn+tPX+NVax93aIpbF3LKgRt6P0qZBJif/Rotzpm8VCqFkJ4Au3jsbEQfnUbO3EcRZILFGQpFgGVOQtExKIg4TwrWEyLVEYahCnyvPd79TT/Wv5d1v//m1963PLym648ZDfOnCh8oT0m0Fbdrz8gZ05I686cEGi/Tlqj1B2iSEnbjp0QaPfeHtkamWBfKVH6xL62TqiUPO/NVxsWs8mksja3/Ojyr+7+qd55l4W4Hpc15zHu3V41QZSiqMtZFzElopT47XenBvMSQF6+6yvxRfZSct+cURpOI+uJ76enEdcqmUZJl4fdyrSoFKjD1Ncx9XVMfR1Tm31rSR3TYTUv5WKe798eBMmYxCwKSVCkKAxoRlggQooCwXkUMSIk4kLDmn04mxajq+vb7KlDPAJ1vKCp8noBnYyjxg4stUuwujBP2pLKpphCJ+OosaxGu5TqS5xqM0NrTekmPmmLSpxiCp3l9PMBUKjVilqnmEIn7qixxF279AlV9BTTdhQ9ZdBcjheyS9VP2W6QKCqYMwM3v17ZoEgKax2SwqBdMGtZ1LtDYAprG5jCoC1b28Rrar61VxiVtakwKvOWz019a6mQylpQIZVDezlm7IxFuxRqOpbgbSiVyqH9mlevi/GDM4SryZqpfJdqppKkrpmKQtzFCgwCB9/Z9QyCr566Rd8MngF8cdY5GU1/Wzwzga79+buro7n4Uj3NE3FTTUFrA+/5BMOqVt1tC4v9cd1Gzc0/bBImDNjsVY0Ha7VIHN1+3E6C4jwP4zSIijyry0OIIM3iPEhlRIXkecHRC2N1tK7W+3F0dLx/cvDv3uDy3cHhT3XpxtMj3avlN1t5+Kz+r5tHKng2K+NVoF0FF2fnYMHS/wDckFoj]]></ATT>
+      <ATT name="Name"><![CDATA[System Behavior - DroneCommander]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="DroneCommander" mc="Standard.Class" uid="3970650f-5881-4839-a789-c429728cadfd"/>
+        <ID name="Autopilot" mc="Standard.Class" uid="2bc6167f-4880-4ba9-b3ff-fcf24222656d"/>
+        <ID name="ArDrone2" mc="Standard.Class" uid="54de40a1-46cf-4a6f-927f-4dbb9e23fec4"/>
+        <ID name="Drone" mc="Standard.Class" uid="545dd131-4f5b-4b25-b1cf-63f87542843a"/>
+        <ID name="FlowController" mc="Standard.Class" uid="8683d71e-f8bd-45f9-81f6-6f7a43513e3a"/>
+        <ID name="MasterFlowQueue" mc="Standard.Class" uid="b17cabcb-08a9-4749-a0ed-525c62cbb8ff"/>
+        <ID name="ControlInterpreter" mc="Standard.Class" uid="dee24c3b-5f68-4e46-9568-7cb4178c09d3"/>
+        <ID name="APControlFile" mc="Standard.Class" uid="67c3a859-b35d-47ef-97bb-4e54cce7d0d3"/>
+        <ID name="FLOW_QUEUE" mc="Standard.DataType" uid="45ad5ef2-ad7f-4685-93ea-351d5e80aa7b"/>
+        <REFOBJ>
+          <ID name="flowQueue" mc="Standard.Attribute" uid="05a16f6e-c890-4bc2-9015-5bb4d0416933"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="addEvent(t,event)" mc="Standard.Operation" uid="8877e6a1-cb2a-4ed5-a757-966cf584fbe7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="flowQueue" mc="Standard.Attribute" uid="2e3fbbe3-004b-47fa-9491-c62dcfe74809"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="queueObject" mc="Standard.Attribute" uid="03ba5139-0a5b-40f3-bc78-e26e6c2ef97f"/>
+        </REFOBJ>
+        <ID name="Configuration" mc="Standard.Class" uid="c5e25703-fb10-4c35-a041-a667753ae16a"/>
+      </LINK>
+      <LINK relation="Extension">
+        <FOREIGNID name="BlockDiagram" mc="Infrastructure.Stereotype" uid="00bc42ac-0000-1016-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="49a92249-831d-443f-9846-c82869a191a6"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<p>Top level view of the DroneCommander</p>
+]]></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,61 @@
+Backup of data directory... 
+Migrating 'DroneCommander' model ...
+
+The 'DroneCommander' model will be migrated:
+   from: Standard v1.1.00, modelio.kernel v1.0.00
+   to:   Standard v2.0.00, modelio.kernel v1.0.00
+with the following steps:
+  - from 'Standard v1.1.00' to 'Standard v2.0.00' 
+
+
+Migrating 'DroneCommander' model toward 'Standard v2.0.00' metamodel ...
+Rebuilding 'DroneCommander' indexes...
+ Running 'MigratorFrom35' migrator ... 
+  Transmuted 'ValueType'{00bc42a4-0000-1a00-0000-000000000000} Standard.Stereotype *Deleted* to 'ValueType'{b2dd4bf6-52bb-40b0-82b4-612737d06f69} Infrastructure.Stereotype (reidentification scheduled).
+  Transmuted 'Block'{00bc42a4-0000-19c9-0000-000000000000} Standard.Stereotype *Deleted* to 'Block'{7742bb66-f1f2-43f8-ab7e-6fdbd45a48de} Infrastructure.Stereotype (reidentification scheduled).
+  Transmuted 'BlockDiagram'{00bc42ac-0000-1016-0000-000000000000} Standard.Stereotype *Deleted* to 'BlockDiagram'{6852e15c-7b02-410b-9c47-3c514a481967} Infrastructure.Stereotype (reidentification scheduled).
+  Transmuted ''{49a92249-831d-443f-9846-c82869a191a6} Standard.Note *Deleted* to ''{18ab346e-070e-495b-bc5f-195242e5c20b} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{be06d1cd-b37b-4442-a550-878d72cf1467} Standard.Note *Deleted* to ''{cf81685e-76c8-4743-b7e8-57270fadaa54} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{fe552819-695d-4922-8df5-868d442cdd61} Standard.Note *Deleted* to ''{79986e9c-f95b-4d90-b06c-4e627a7c5fb3} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{740f563a-b84f-42ef-bd08-06810d2d6c6b} Standard.Note *Deleted* to ''{0d939e8b-f663-407f-9a49-0e2ecf08c87e} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{94a89342-488a-4026-b1b4-8e2060206eaa} Standard.Note *Deleted* to ''{23a146ad-e932-437a-8085-1ea7394d8fd4} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{9adf8cd2-21aa-414f-8668-ee7b99f743e2} Standard.Note *Deleted* to ''{159228ff-0743-4937-b259-605869626059} Infrastructure.Note (reidentification scheduled).
+  Transmuted ''{302b4d0d-51b7-42a2-b291-17ec1ed25bf6} Standard.Note *Deleted* to ''{725f9ca6-65f8-490a-b74c-ea86bea3e8f4} Infrastructure.Note (reidentification scheduled).
+  Transmuted 'description'{00000000-0000-3e81-0000-000000000000} Standard.NoteType *Deleted* to 'description'{6ddddba3-a5e5-4608-ac66-e2fd9ea912b4} Infrastructure.NoteType (reidentification scheduled).
+  Transmuted 'LocalModule'{8af48657-fff2-45c0-9363-6d01d8f98cae} Standard.ModuleComponent *Deleted* to 'LocalModule'{614af525-0763-465c-8eeb-f381dec9c8b4} Infrastructure.ModuleComponent (reidentification scheduled).
+  Transmuted 'DroneCommander'{ce0f6566-8d53-4173-835c-a4ca530f0cc9} Standard.DiagramSet *Deleted* to 'DroneCommander'{10dd63b7-9be9-4435-8069-dfdf05f8f84a} Infrastructure.DiagramSet (reidentification scheduled).
+  Transmuted 'DroneCommander'{7dce0800-18f0-4376-aaab-a7366bebabc3} Standard.AnalystProject *Deleted* to 'DroneCommander'{751cab00-24b0-46fe-9e1a-818e3ce2cbd1} Analyst.AnalystProject (reidentification scheduled).
+  Transmuted 'LocalProfile'{7f1c9d77-4b1c-47d0-88c3-25e0ddec52d3} Standard.Profile *Deleted* to 'LocalProfile'{1f481a92-9a88-4c59-819c-24f6ff6788ad} Infrastructure.Profile (reidentification scheduled).
+
+ Processing 3.5 Analyst property container...
+ Found 1 property containers in 'DroneCommander'{751cab00-24b0-46fe-9e1a-818e3ce2cbd1} Analyst.AnalystProject. 
+   Found 0 property table definitions in 'DroneCommander'{231b62a7-3b4e-4b72-9b29-373f1e46e613} Standard.PropertyContainer. 
+   Deleted obsolete 'DroneCommander'{231b62a7-3b4e-4b72-9b29-373f1e46e613} Standard.PropertyContainer *Deleted* from 'DroneCommander'{751cab00-24b0-46fe-9e1a-818e3ce2cbd1} Analyst.AnalystProject. 
+ Processed 3.5 Analyst property containers.
+   WARN: 'Block'{7742bb66-f1f2-43f8-ab7e-6fdbd45a48de} Infrastructure.Stereotype Stereotype has no base metaclass.
+   WARN: 'BlockDiagram'{6852e15c-7b02-410b-9c47-3c514a481967} Infrastructure.Stereotype Stereotype has no base metaclass.
+   WARN: 'ValueType'{b2dd4bf6-52bb-40b0-82b4-612737d06f69} Infrastructure.Stereotype Stereotype has no base metaclass.
+ Process 15 scheduled reidentifications...
+  Replaced 'ValueType'{b2dd4bf6-52bb-40b0-82b4-612737d06f69} Infrastructure.Stereotype *Deleted* by 'ValueType'{00bc42a4-0000-1a00-0000-000000000000} Infrastructure.Stereotype.
+  Replaced 'Block'{7742bb66-f1f2-43f8-ab7e-6fdbd45a48de} Infrastructure.Stereotype *Deleted* by 'Block'{00bc42a4-0000-19c9-0000-000000000000} Infrastructure.Stereotype.
+  Replaced 'BlockDiagram'{6852e15c-7b02-410b-9c47-3c514a481967} Infrastructure.Stereotype *Deleted* by 'BlockDiagram'{00bc42ac-0000-1016-0000-000000000000} Infrastructure.Stereotype.
+  Replaced ''{18ab346e-070e-495b-bc5f-195242e5c20b} Infrastructure.Note *Deleted* by ''{49a92249-831d-443f-9846-c82869a191a6} Infrastructure.Note.
+  Replaced ''{cf81685e-76c8-4743-b7e8-57270fadaa54} Infrastructure.Note *Deleted* by ''{be06d1cd-b37b-4442-a550-878d72cf1467} Infrastructure.Note.
+  Replaced ''{79986e9c-f95b-4d90-b06c-4e627a7c5fb3} Infrastructure.Note *Deleted* by ''{fe552819-695d-4922-8df5-868d442cdd61} Infrastructure.Note.
+  Replaced ''{0d939e8b-f663-407f-9a49-0e2ecf08c87e} Infrastructure.Note *Deleted* by ''{740f563a-b84f-42ef-bd08-06810d2d6c6b} Infrastructure.Note.
+  Replaced ''{23a146ad-e932-437a-8085-1ea7394d8fd4} Infrastructure.Note *Deleted* by ''{94a89342-488a-4026-b1b4-8e2060206eaa} Infrastructure.Note.
+  Replaced ''{159228ff-0743-4937-b259-605869626059} Infrastructure.Note *Deleted* by ''{9adf8cd2-21aa-414f-8668-ee7b99f743e2} Infrastructure.Note.
+  Replaced ''{725f9ca6-65f8-490a-b74c-ea86bea3e8f4} Infrastructure.Note *Deleted* by ''{302b4d0d-51b7-42a2-b291-17ec1ed25bf6} Infrastructure.Note.
+  Replaced 'description'{6ddddba3-a5e5-4608-ac66-e2fd9ea912b4} Infrastructure.NoteType *Deleted* by 'description'{00000000-0000-3e81-0000-000000000000} Infrastructure.NoteType.
+  Replaced 'LocalModule'{614af525-0763-465c-8eeb-f381dec9c8b4} Infrastructure.ModuleComponent *Deleted* by 'LocalModule'{8af48657-fff2-45c0-9363-6d01d8f98cae} Infrastructure.ModuleComponent.
+  Replaced 'DroneCommander'{10dd63b7-9be9-4435-8069-dfdf05f8f84a} Infrastructure.DiagramSet *Deleted* by 'DroneCommander'{ce0f6566-8d53-4173-835c-a4ca530f0cc9} Infrastructure.DiagramSet.
+  Replaced 'DroneCommander'{751cab00-24b0-46fe-9e1a-818e3ce2cbd1} Analyst.AnalystProject *Deleted* by 'DroneCommander'{7dce0800-18f0-4376-aaab-a7366bebabc3} Analyst.AnalystProject.
+  Replaced 'LocalProfile'{1f481a92-9a88-4c59-819c-24f6ff6788ad} Infrastructure.Profile *Deleted* by 'LocalProfile'{7f1c9d77-4b1c-47d0-88c3-25e0ddec52d3} Infrastructure.Profile.
+ Migrating diagram content references...
+    Diagram metaclasses: [Standard.SequenceDiagram MofSmClass, Standard.ClassDiagram MofSmClass, Standard.StaticDiagram MofSmClass, Standard.ObjectDiagram MofSmClass, Standard.CommunicationDiagram MofSmClass, Standard.CompositeStructureDiagram MofSmClass, Infrastructure.ImpactDiagram MofSmClass, Standard.BpmnSubProcessDiagram MofSmClass, Standard.DeploymentDiagram MofSmClass, Standard.UseCaseDiagram MofSmClass, Standard.BpmnProcessCollaborationDiagram MofSmClass, Standard.BehaviorDiagram MofSmClass, Standard.StateMachineDiagram MofSmClass, Standard.ActivityDiagram MofSmClass]
+     Processing 'overview diagram'{612d0332-578f-46a4-b864-26d1e301689d} Standard.ClassDiagram ...
+     Processing 'Block diagram (Main)'{918dd08b-7fdc-40fa-bc8d-be74ae6df61a} Standard.StaticDiagram ...
+ Reidentifications done.
+  warn: C:\Users\Puck\IdeaProjects\DroneCommander\Documentation\SysML\DroneCommander\data\fragments\DroneCommander\model\AnalystProject\7dce0800-18f0-4376-aaab-a7366bebabc3.exml: Unknown metaclass for ''DroneCommander' {7dce0800-18f0-4376-aaab-a7366bebabc3} Analyst.AnalystProject'.
+'DroneCommander' migration sucessful.
+Archiving 'DroneCommander' model backup to 'C:\Users\Puck\IdeaProjects\DroneCommander\Documentation\SysML\DroneCommander\.runtime\fragments\DroneCommander\migration_archive' ...
